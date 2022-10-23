@@ -24,6 +24,8 @@ https://github.com/bunny-chz/FileTransferAndroid
 
 Windows QT 5.14.2
 
+------------------------------
+
 本应用可以实现客户端和服务器端数据交换
 
 用到了QT的QtWebApp
